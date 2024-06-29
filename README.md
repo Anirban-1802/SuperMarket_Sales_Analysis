@@ -10,15 +10,15 @@ This repository contains a comprehensive project on Super Market Sales Analysis 
    
 # Features
 1. Advanced Data Analysis
-    a. In-depth time series analysis.
-    b. Identification of sales trends and patterns.
-    c. Analysis of key performance indicators (KPIs).
+   a. In-depth time series analysis.
+   b. Identification of sales trends and patterns.
+   c. Analysis of key performance indicators (KPIs).
    
 2. Sales Forecasting
-    a. Accurate forecasting of future sales based on historical data.
-    b. Visualization of forecasted sales to aid in decision-making.
+   a. Accurate forecasting of future sales based on historical data.
+   b. Visualization of forecasted sales to aid in decision-making.
    
 3. Interactive Dashboard
-    a. User-friendly interface.
-    b. Interactive elements such as filters, slicers, and drill-down capabilities.
-    c. Visualizations including bar charts, line graphs, pie charts, and more.
+   a. User-friendly interface.
+   b. Interactive elements such as filters, slicers, and drill-down capabilities.
+   c. Visualizations including bar charts, line graphs, pie charts, and more.
