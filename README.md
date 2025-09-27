@@ -4,6 +4,8 @@ This repository contains a comprehensive project on Super Market Sales Analysis 
 
 # Sneak-Peak into the PowerBI Dashboard:
 <img width="1380" height="793" alt="image" src="https://github.com/user-attachments/assets/92482445-82b4-4c23-83c2-220374c44cb4" />
+<img width="1379" height="792" alt="image" src="https://github.com/user-attachments/assets/8f668b75-726a-457f-bdce-60d5eb1b850d" />
+
 
 
 # Project Objectives
