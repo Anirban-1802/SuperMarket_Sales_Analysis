@@ -1,6 +1,10 @@
 # SuperMarket_Sales_Analysis
 # Overview
-This repository contains a comprehensive project on Super Market Sales Analysis conducted using Power BI. The project was completed in June 2024 and demonstrates advanced data analysis techniques, with a focus on time series analysis, sales forecasting, and the creation of interactive dashboards.
+This repository contains a comprehensive project on Super Market Sales Analysis conducted using Power BI. The project demonstrates advanced data analysis techniques, with a focus on time series analysis, sales forecasting, by first making data fit for analysis using SQL Advanced Queries and the creation of interactive dashboards.
+
+# Sneak-Peak into the PowerBI Dashboard:
+<img width="1380" height="793" alt="image" src="https://github.com/user-attachments/assets/92482445-82b4-4c23-83c2-220374c44cb4" />
+
 
 # Project Objectives
 1. To perform an in-depth analysis of supermarket sales data.
